@@ -28,8 +28,8 @@ public class RedNeuronal1 {
         System.out.println("Fecha: 21/05/2020");
         System.out.println("                     TRABAJO EN CLASE \n");
         
-        System.out.println("Ingrese el nombre de su paper:");
-        String nombre=objeto.nextLine (); 
+        System.out.println("Ingrese el tema de su paper:");
+        String tema=objeto.nextLine (); 
         
         System.out.println("¿Qué es una red neuronal?");
         String red=objeto.nextLine ();
@@ -46,7 +46,7 @@ public class RedNeuronal1 {
         System.out.println("¿En qué consistió el entrenamiento utilizando una red neuronal, indique el algoritmo utilizado?");
         String entrenamiento=objeto.nextLine ();
         
-        System.out.println("           GRACIAS POR SU ATENCION            ");
+        System.out.println("           GRACIAS POR SU ATENCIÓN            ");
         
         
     }
